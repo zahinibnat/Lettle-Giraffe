@@ -1,0 +1,852 @@
+
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+	.custom-img {
+    	width: 120px;
+    	height: 50px;
+    }
+    .custom-nav ul li a{
+		padding: 3px 14px !important;
+	}
+	.custom-drop{
+		
+	}
+	.custom-icon{
+		margin-left: 14px;
+	}	
+	/*banner start*/
+	.banner-content {
+    	margin-top: 60px;
+	}
+
+	.scroll {
+    	margin-top: 40px;
+	}
+
+	.banner h1{
+		color: #1ec0ff;
+    	font-size: 30px;
+    	
+	}
+	.common-title h1{
+		font-size: 25px;
+	}
+	.common-title {
+    	margin-top: 20px;
+	}
+	.common-title hr {
+    	width: 135px;
+    	border-bottom: 4px dashed white;
+	}
+	.kid1 {
+    	margin-bottom: 20px;
+	}
+	.schools h3 {
+    	font-size: 20px;
+	}
+	.schools hr {
+    	width: 120px;
+    	margin-left: 0;
+    	border: 1px solid #bdbdbd;
+    	border-radius: 2px;
+	}
+	.common-title h1 {
+    	font-size: 22px;
+	}
+	.common-title hr {
+    	width: 125px;
+    	border-bottom: 3px dashed white;
+	}
+	.kid2 {
+    	padding: 20px 0;
+	}
+	.kid2-content p {
+    	font-size: 18px;
+	}
+	.kid2-img2 {
+    	top: 2px;
+    	left: 105px;
+	}
+	.custom-kid2-img {
+    	max-width: 98px;
+	}
+	/*kid2 end*/
+	/*course start*/
+	.courses {
+    	padding: 20px;
+	}
+	.card {
+    	margin-bottom: 10px;
+	}
+	/*course end*/
+	/*moment start*/
+	.moment {
+    	padding: 0 0 20px 0;
+	}
+	.moment-content {
+    	margin-bottom: 20px;
+	}
+	.moment-img{
+		text-align: center;
+	}
+	.moment-img2{
+		text-align: center;
+	}
+	.custom-moment-img {
+	    max-width: 230px;
+	}
+	.moment-button {
+    	margin-top: 20px;
+	}
+	.moment-custom-button {
+    	max-width: 150px;
+	}
+	/*moment end*/
+	/*stand start*/
+	.stand {
+    	padding: 20px 0;
+	}
+	.custom-col{
+		margin:0 auto;
+	}
+	.stand-content p {
+	    letter-spacing: 0;
+	    word-spacing:0;
+	}
+	.teacher-title {
+    	margin: 25px 0;
+	}
+	.teacher-title h1 {
+    font-size: 22px;
+	}
+	.teacher-title hr {
+    width: 130px;
+	}
+	.teacher-img {
+    	text-align: center;
+	}
+	.teacher-content {
+    	text-align: center;
+    	margin-bottom: 20px;
+	}
+	.teacher-content h4 {
+    	font-size: 22px;
+	}
+	.teacher-content p {
+     	letter-spacing: 0; 
+	}
+	.teacher-content span {
+    	margin-right: 12px;
+	}
+	/*stand end*/
+	/*teach start*/
+	.teach {
+	    padding-bottom: 0; 
+    	padding: 20px 0;
+	}
+	.custom-teach-title {
+    	margin-bottom: 20px;
+	}
+	.common-title {
+	    margin-top: 10px;
+	}
+	.common-title h1 {
+    	font-size: 20px;
+	}
+	.common-title hr {
+    	width: 105px;
+    	border-bottom: 2px dashed white;
+	}
+	.custom-teach-title {
+    	margin-bottom: 30px;
+	}
+	.teach-content h1 {
+	    font-size: 20PX;
+	}
+	.teach-content h2 {
+	    font-size: 14px;
+	}
+
+	/*teach end*/
+	/*timeline start*/
+	.timeline {
+    	padding: 20px 0 0 0;
+	}
+	.m-b-evevt {
+    	margin-top: 20px;
+	}
+	.timeline {
+    	text-align: center;
+	}
+	.timeline-title {
+    	margin-bottom: 15px;
+	}
+	.timeline-title h1 {
+	    font-size: 22px;
+	}
+	.timeline-title hr {
+    	width: 130px;
+       	border: 2px dashed white;
+	}	
+	.round {
+		margin: 0 auto;
+    	width: 80px;
+	    height: 80px;
+	}
+	.round h4 {
+	    font-size: 30px;
+	}
+	.round p {
+	    font-size: 15px;
+	}
+	.event h5 {
+	    font-size: 18px;
+	}
+	.event p {
+	    font-size: 14px;
+	}
+	.r-news-title h1 {
+    	font-size: 22px;
+
+	}
+	.r-news-title hr {
+	    margin: 0 auto;
+	    width: 130px;
+	    border: 2px dashed white;
+	}
+	.r-news-content {
+    	margin-bottom: 10px;
+	}
+	.r-news-content h5 {
+	    font-size: 22px;
+	}
+
+	/*timeline end*/
+	/*about us start*/
+	.about-us {
+    	padding: 30px 0 0 0;
+    	background-position: right;
+    	padding-top: 0;
+	}
+	.giraffe {
+    	text-align: center;
+    	margin-top: 105px;
+	}
+	.ft-img-con {
+    	text-align: center;
+	}
+	.ft-custom-img {
+    	max-width: 55%;
+	}
+	.contact {
+	    text-align: center;
+	    margin-top: 10px
+	}
+	.contact h1 {
+	    font-size: 20px;
+	}
+	.contact hr {
+	    border-bottom: 2px dashed #56d47e;
+	    width: 100px;
+	    margin: 0 auto;
+	}
+	.sign-up {
+	    text-align: center;
+	}
+	.sign-up h1 {
+	    font-size: 20px;
+	}
+	.sign-up hr {
+    	border-bottom: 2px dashed #f05c5c;
+	    width: 100px;
+	    margin: 0 auto;
+	}
+	.sign-up {
+    	margin-top: 10px;
+	}
+	/*about us end*/
+
+
+}
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+	/*banner start*/
+	.banner-content{
+		margin-top: 170px;
+	}
+	.banner h1{
+		font-size: 35px;
+	}
+	.scroll{
+		margin-top: 80px; 
+	}
+	.common-title hr {
+    	width: 148px;
+    	border-bottom: 3px dashed white;
+	}
+	
+	.common-title h1 {
+    	font-size: 24px;
+	}
+	.kid2 {
+    	padding: 40px 0;
+	}
+	.kid2-content p {
+    	font-size: 18px;
+	}
+	.common-title h1 {
+    	font-size: 26px;
+	}
+	.schools h3 {
+    	font-size: 22px;
+    }
+    .kid2-img2 {
+    	top: 2px;
+    	left: 80px;
+	}
+	.custom-kid2-img {
+    	max-width: 97px;
+	}
+	/*kid2 end*/
+	/*course start*/
+	.courses {
+    	padding: 40px 0;
+	}
+	.card {
+    	margin-bottom: 15px;
+	}
+	/*course end*/
+	/*moment start*/
+	.moment {
+    	padding: 40px 0 40px 0;
+	}
+	.moment-content {
+    	margin-bottom: 40px;
+	}
+	.custom-moment-img {
+    margin: 5px;
+    max-width: 112px;
+	}
+	.moment-custom-button {
+    	max-width: 160px;
+	}
+	.moment-button {
+    	margin-top: 40px;
+	}
+	/*moment end*/
+	/*stand start*/
+	.stand {
+    	padding: 40px 0;
+	}
+	.teacher-content {
+    	text-align: center;
+	}
+	/*stand end*/
+	/*teach start*/
+	.teach {
+	    padding-bottom: 0; 
+    	padding: 40px 0;
+	}
+	.custom-teach-title {
+    	margin-bottom: 30px;
+	}
+	.common-title {
+	    margin-top: 0;
+    	margin-bottom: 30px;
+	}
+	.teach-content h1 {
+    	font-size: 30px;
+	}
+	.teach-content img {
+    	max-width: 90%;
+	}
+	.teach-content h2 {
+	    font-size: 18px;
+	}
+	/*teach end*/
+	/*timeline start*/
+	.timeline {
+    	padding: 40px 0 0 0;
+    	text-align: center;
+	}
+	.m-b-evevt {
+    	margin-top: 20px;
+	}
+	.timeline-title {
+    	margin-bottom: 20px;
+	}
+	.timeline-title h1 {
+	    font-size: 22px;
+	}
+	.timeline-title hr {
+   		width: 180px;
+   		margin: 0 auto;
+	}
+	.event p {
+    	margin-bottom: 0;
+	}
+	.round {
+		margin: 0 auto;
+    	width: 80px;
+	    height: 80px;
+	}
+	.round h4 {
+	    font-size: 30px;
+	}
+	.round p {
+	    font-size: 15px;
+	}
+	.event h5 {
+	    font-size: 18px;
+	}
+	.event p {
+	    font-size: 14px;
+	}
+	.r-news-title {
+    	margin-bottom: 20px;
+    	margin-top: 20px;
+	}
+	.r-news-title hr {
+	     margin: 0 auto;
+	}
+	.r-news-content {
+    	margin-bottom: 10px;
+	}
+	.r-news-content h5 {
+	    font-size: 18px;
+	}
+	.r-news-content p {
+    	letter-spacing: 0;
+	}
+	/*timeline end*/
+	/*about us start*/
+	.about-us {
+	    background-position: top;
+	}
+	.about-us{
+		margin-top: 0;
+	}
+	.ft-custom-img {
+    	max-width: 75%;
+	}
+	.instagram h1 {
+	    font-size: 20px;
+    	letter-spacing: 0;
+	}
+	.instagram hr {
+    	border-bottom: 2px dashed #ffc852;
+    	width: 130px;
+	}
+	.contact {
+    	margin-top: 20px;
+	}
+	.contact h1 {
+    	font-size: 20px;
+    	letter-spacing: 0;
+	}
+	.contact hr {
+    	border-bottom: 2px dashed #56d47e;
+    	width: 130px;
+	}
+	.sign-up {
+    	margin-top: 20px;
+	}
+	.sign-up h1 {
+ 		font-size: 20px;
+    	letter-spacing: 0; 
+	}
+	.sign-up hr {
+    	border-bottom: 2px dashed #f05c5c;
+    	width: 130px;
+	}
+	.custom-icon2 {
+		margin-right: 0;
+	    /*margin-right: 5px; */
+	}
+
+	/*about us end*/
+	/*footer start*/
+	.footer {
+	    text-align: center;
+	}
+	/*footer end*/
+}
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+	.custom-img{
+		height: 60px;
+	}
+	.custom-drop{
+		/*margin-left: 5px;*/
+	}
+	.custom-icon{
+		margin-left: 14px;
+	}
+	.custom-nav ul li a{
+		padding: 3px 15px !important;
+	}
+	/*banner start*/
+	.banner-content{
+		margin-top: 180px;
+	}
+	.banner h1{
+		font-size: 35px;
+	}
+	.scroll{
+		margin-top: 110px; 
+	}
+	/*kid1*/
+	.kid1 {
+    	margin-bottom: 25px;
+	}
+	.common-title {
+    	margin-top: 25px;
+	}
+	.common-title h1 {
+    	font-size: 26px;
+    }
+    .common-title hr {
+    	border: none;
+    	width: 175px;
+    	border-bottom: 3px dashed white;
+    }
+    .schools h3 {
+    	font-size: 20px;
+	}
+	
+	.custom-img {
+    	height: 55px;
+	}
+	.schools-img img {
+    	margin-top: 100px;
+	}
+	.schools hr {
+    	width: 120px;    
+    	border: 1px solid #bdbdbd;
+	}
+	.common-title h1 {
+    	font-size: 25px;
+	}
+	.schools {
+    	margin-bottom: 10px;
+	}
+	.kid2 {
+	    padding: 25px 0;
+	}
+	.kid2-content p {
+    	font-size: 20px;
+	}
+	.kid2-img2 {
+    top: 1px;
+    left: 35px;
+	}
+	.custom-kid2-img {
+    	max-width: 97px;
+	}
+	/*course start*/
+	.courses {
+    	padding: 40px 0;
+	}
+
+	.course-title h1 {
+    	font-size: 26px;
+	}
+	/*course end*/
+	/*moment start*/
+	.moment {
+	    padding: 0 0 40px 0;
+	}
+	.moment-content {
+    	margin-bottom: 40px;
+	}
+	.custom-moment-img {
+    	margin: 5px;
+    	max-width: 158px;
+	}
+	.moment-custom-button {
+    	max-width: 170px;
+	}
+	.moment-button {
+    	margin-top: 40px;
+	}
+	/*moment end*/
+	/*stand start*/
+	.stand {
+    	padding: 60px 0 30px 0;
+	}
+	.teacher-content {
+    	margin-bottom: 30px;
+	}
+	.stand {
+    	padding: 40px 0 30px 0;
+	}
+	/*stand end*/
+	/*teach start*/
+	.teach {
+    	padding-bottom: 40px;
+	}
+	.teach-content h1 {
+    	font-size: 40px;   
+	}
+	.teach-content img {
+    	max-width: 90%;
+	}
+	.teach-content h2 {
+    	font-size: 20px;
+    
+	}
+	/*teach end*/
+	/*timeline start*/
+	.timeline {
+    	padding: 40px 0 0 0;
+	}
+	.timeline-title {
+    	margin: 0 0 30px 0;
+	}
+	.timeline-title h1 {
+    	font-size: 26px;
+	}
+	.timeline-title hr {
+	    width: 200px;
+
+	}
+	.round {
+	    width: 85px;
+	    height: 85px;
+	}
+	.round h4 {
+	    font-size: 38px;
+	}
+	.round p {
+	    font-size: 15px;
+	}
+	.event {
+	    margin-left: 25px;
+	    margin-top: 10px;
+	}
+	.event h5 {
+    	font-size: 20px;
+    	letter-spacing: 0;
+	}
+	.event p {
+	     letter-spacing: 0; 
+	}
+	.r-news-content {
+    	margin-bottom: 10px;
+	}
+	.r-news-content h5 {
+	    font-size: 20px;
+	}
+	.r-news-content p {
+    	letter-spacing: 0;
+	}
+	/*timeline end*/
+	/*about us start*/
+	.about-us{
+		background-position: right;
+	}
+	.giraffe {
+    	margin-top: 150px;
+	}
+	.ft-custom-img {
+    	max-width: 85%;
+	}
+	.instagram {
+    	margin-top: 150px;
+	}
+	.instagram h1 {
+	    font-size: 20px;
+    	letter-spacing: 0;
+	}
+	.instagram hr {
+    	border-bottom: 2px dashed #ffc852;
+    	width: 130px;
+	}
+	.contact {
+    	margin-top: 150px;
+	}
+	.contact h1 {
+    	font-size: 20px;
+    	letter-spacing: 0;
+	}
+	.contact hr {
+    	border-bottom: 2px dashed #56d47e;
+    	width: 130px;
+	}
+	.sign-up {
+    	margin-top: 127px;
+	}
+	.sign-up h1 {
+ 		font-size: 20px;
+    	letter-spacing: 0; 
+	}
+	.sign-up hr {
+    	border-bottom: 2px dashed #f05c5c;
+    	width: 130px;
+	}
+	.custom-icon2 {
+		margin-right: 0;
+	    /*margin-right: 5px; */
+	}
+
+	/*about us end*/
+	/*footer start*/
+	.footer {
+	    padding: 28px 0 8px 0;
+	    text-align: center;
+	}
+	/*footer end*/
+}
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+	/*banner start*/
+	.banner-content{
+		margin-top: 190px;
+	}
+	.banner h1{
+		font-size: 38px;
+	}
+	/*kid1 start*/
+
+	.common-title h1 {
+    	font-size: 28px;
+    	font-weight: 700;
+    	color: #333333;
+	}
+	.common-title hr {
+    	border: none;
+    	width: 180px;
+    	border-bottom: 3px dashed white;
+	}
+	.schools-img img {
+    	margin-top: 45px;
+	}
+	.custom-img {
+    	height: 55px;
+	}
+	.schools h3 {
+    	font-size: 22px;
+	}
+	.schools hr {
+    	width: 132px;
+    	margin-left: 0;
+    	border: 2px solid #a9a9a9;
+    	border-radius: 2px;
+    }
+    .common-title {
+    	margin-top: 40px;
+	}
+	/*kid2 strt*/
+	.kid2-content p {
+    	font-size: 22px;
+	}
+
+	.kid2-img2 {
+    	left: 65px;
+	}
+	/*kid2 end*/
+	/*course start*/
+	.courses {
+    	padding: 60px 0;
+	}
+	/*course end*/
+
+	/*moment start*/
+	.custom-moment-img {
+    	max-width: 209px;
+	}
+	.moment-custom-button {
+    	max-width: 175px;
+	}
+	/*moment end*/
+	/*stand start*/
+	.teacher-content {
+     	margin-top: 0; 
+	}
+	.teacher-content p {
+    	 letter-spacing: 0; 
+	}
+	.custom {
+    	margin-bottom: 30px;
+	}
+	/*stand end*/
+	/*teach start*/
+	.teach-content h1 {
+    	font-size: 50px;    
+	}
+	.teach-content h2 {
+    	font-size: 22px;    
+	}
+	/*teach end*/
+	/*timeline start*/
+	.timeline-title {
+    	margin: 0 0 30px 0;
+	}
+	.timeline-title h1 {
+	    font-size: 28px;
+	}
+	.timeline-title hr {
+	    width: 220px;
+	}
+	.round {
+	    width: 95px;
+    	height: 95px;
+	}
+	.round h4 {
+	    font-size: 45px;
+	}
+	.round p {
+	    font-size: 15px;
+	}
+	.event {
+    	margin-left: 10px;
+	}
+	.event h5 {
+	    font-size: 22px;
+	}
+	.event p {
+	    letter-spacing: 0;
+	}
+	.r-news-content {
+    	margin-bottom: 20px;
+	}
+
+	/*timeline end*/
+	/*about us start*/
+	.about-us{
+		margin-top: 30px;
+	}
+	.ft-custom-img {
+    	max-width: 85%;
+	}
+	.sign-up h1 {
+ 		font-size: 23px;
+    	letter-spacing: 0; 
+	}
+	.custom-icon2 {
+	    padding-right: 0; 
+	}
+	/*about us end*/
+	/*footer start*/
+	.footer {
+	    padding: 28px 0 8px 0;
+	}
+	/*footer end*/
+}
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+	/*stand start*/
+	.custom{
+		margin-bottom: 20px;
+	}
+	/*stand end*/
+	/*about us start*/
+	.about-us{
+		margin-top: 40px;
+	}
+	/*about us end*/
+}
